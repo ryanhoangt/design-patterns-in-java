@@ -13,4 +13,5 @@ module com.edocode.dp {
     requires javafx.graphics;
     requires javafx.fxml;
     requires javafx.swing;
+	requires org.apache.commons.lang3;
 }
